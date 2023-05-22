@@ -1,0 +1,3 @@
+Jay,Gamao,M,20,Vomiting,Maxicare,2023-05-14
+Jimenez, Carlos, O, 34, Nausea, UnitedHealth, 2022-09-01
+Kwan, Sophia, P, 40, Dental, Independence Health Group, 2023-02-01

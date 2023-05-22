@@ -1,0 +1,5 @@
+Fernandez, Miguel, K, 22, Dental, UnitedHealth, 2022-08-01
+Garcia, Luis, L, 29, Tumor, Independence Health Group, 2023-03-01
+Hernandez, Ana, M, 33, Vomiting, Maxicare, 2024-01-01
+Iglesias, Juan, N, 43, Fever, PhilHealth, 2022-07-01
+Power,Rangers,Go,19,Vomiting,Maxicare,2023-05-01

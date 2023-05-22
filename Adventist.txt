@@ -1,0 +1,6 @@
+Aquino, Jose, F, 50, Cough, Anthem, Inc., 2022-10-01
+Bautista, Ana, G, 30, Sore Throat, Centene Corp, 2022-12-01
+Castro, Paolo, H, 28, Eye, Humana, 2023-01-01
+David, Felicity, I, 42, Cancer, CVS, 2022-09-01
+Enriquez, Sofia, J, 37, Nausea, HCSC, 2023-04-01
+Jonreff,M,Gamao,19,Fever,Kaiser Foundation,2023-05-10

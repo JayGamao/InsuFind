@@ -1,0 +1,3 @@
+Estrada, Luis, J, 32, Cold and Flu, Anthem, Inc., 2022-10-01
+Flores, Maria, K, 27, Sore Throat, Centene Corp, 2022-12-01
+Gomez, Jose, L, 41, Eye, Humana, 2023-01-01

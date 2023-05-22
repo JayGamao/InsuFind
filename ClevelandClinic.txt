@@ -1,0 +1,2 @@
+Hernandez, Ana, M, 38, Cancer, CVS, 2023-04-01
+Ibanez, Maria, N, 26, Fever, HCSC, 2022-08-01

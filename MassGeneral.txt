@@ -1,0 +1,4 @@
+Dela Cruz, Juan, M, 25, Cold and Flu, Maxicare, 2023-06-01
+Gonzales, Maria, T, 35, Allergies, PhilHealth, 2024-02-01
+Santos, Pedro, R, 45, Injury, Kaiser Foundation, 2022-11-01
+Jay,D,Go,20,Vomiting,Maxicare,2023-05-28

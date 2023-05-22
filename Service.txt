@@ -1,0 +1,13 @@
+Vomiting,Allergies,Cold and Flu,Sore Throat,Fever,Nausea,Diarrhea,Cancer
+Cold and Flu,Vomiting,Sore Throat,Fever,Nausea,Injury,Diarrhea, Eye
+Cough,Vomiting,Allergies,Cold and Flu,Sore Throat,Fever, Nausea, Cancer
+Sore Throat,Vomiting, Cold and Flu, Fever, Nausea, Injury
+Fever,Vomiting,Allergies, Sore Throat, Fever, Nausea, Cancer, Eye
+Diarrhea,Vomiting, Cold and Flu, Fever, Nausea, Injury, Tumor, Cancer
+Nausea,Vomiting,Eye, Sore Throat, Fever, Injury, Tumor,Diarrhea
+Cancer,Vomiting,Allergies, Cold and Flu,Sore Throat,Fever,Nausea
+Injury,Vomiting,Eye,Nausea, Tumor, Diarrhea, Cancer
+Eye,Sore Throat,Fever,Nausea,Injury,Diarrhea,Cancer
+Dental
+Allergies,Vomiting,Sore Throat, Fever,Nausea,Diarrhea,Cancer,Eye
+Tumor,Vomiting,Allergies,Cold and Flu,Sore Throat,Fever,Nausea

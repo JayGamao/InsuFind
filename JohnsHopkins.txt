@@ -1,0 +1,5 @@
+Zhang, Emily, E, 24, Allergies, UnitedHealth, 2023-02-01
+Alvarez, Juan, F, 36, Eye, Independence Health Group, 2022-08-01
+Bautista, Maria, G, 30, Cancer, PhilHealth, 2022-07-01
+Castillo, Carlos, H, 43, Diarrhea, Maxicare, 2023-05-01
+Dominguez, Sofia, I, 35, Injury, Kaiser Foundation, 2022-09-01

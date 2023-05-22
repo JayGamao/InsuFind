@@ -1,0 +1,4 @@
+Javier, Maria, O, 31, Injury, Kaiser Foundation, 2023-05-01
+Kim, Minho, P, 27, Sore Throat, Anthem, Inc., 2022-11-01
+Lee, Jaehyun, Q, 23, Cold and Flu, Centene Corp, 2023-02-01
+Martinez, Jose, R, 26, Allergies, Humana, 2022-12-01

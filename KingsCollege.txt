@@ -1,0 +1,4 @@
+Ramos, Sofia, W, 28, Nausea, PhilHealth, 2023-06-01
+Santos, Miguel, X, 33, Vomiting, Maxicare, 2024-02-01
+Tan, Angela, Y, 45, Injury, Kaiser Foundation, 2022-11-01
+Uy, John, Z, 37, Cold and Flu, Anthem, Inc., 2022-10-01

@@ -1,0 +1,4 @@
+Valdez, Maria, A, 42, Dental, Centene Corp, 2022-12-01
+Wu, David, B, 29, Fever, Humana, 2022-09-01
+Xavier, Luis, C, 31, Cough, CVS, 2023-04-01
+Yu, Grace, D, 39, Sore Throat, HCSC, 2023-01-01
